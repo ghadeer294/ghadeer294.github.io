@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-about me
+I'm currently a Ph.D. candidate in Computer Science at Binghamton University. My current research focuses on microarchitecture security in heterogenous systems.
