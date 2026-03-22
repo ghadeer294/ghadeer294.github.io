@@ -7,9 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-[comment]: #This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-[comment]: #{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-[comment]: #{% include courses.liquid %}
+<!--
+This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+{% include courses.liquid %}
+-->
 
 # Courses:
 * CS320: Advanced Computer Architecture 
