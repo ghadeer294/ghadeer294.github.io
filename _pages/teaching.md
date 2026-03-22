@@ -14,5 +14,5 @@ This page displays a collection of courses with detailed schedules, materials, a
 -->
 
 ### **Courses**:
-* **CS320:** Advanced Computer Architecture 
-* **CS120:** Programming and Hardware Fundamentals
+* **Spring 2026**: Advanced Computer Architecture (CS 320) 
+* **Fall 2025**: Programming and Hardware Fundamentals (CS 120)
