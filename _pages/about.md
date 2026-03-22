@@ -13,6 +13,9 @@ profile:
     #<p>123 your address street</p>
     #<p>Your City, State 12345</p>
 
+    
+social: true # includes social icons at the bottom of the page
+
 announcements:
   enabled: true # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
@@ -20,7 +23,6 @@ announcements:
 
 
 selected_papers: True # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 
 
 latest_posts:
