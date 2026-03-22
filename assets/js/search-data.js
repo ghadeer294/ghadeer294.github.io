@@ -458,11 +458,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=-zHU7wkAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://github.com/galmusaddar", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/ghadeer-almusaddar-11196217a", "_blank");
         },
       },{
       id: 'light-theme',
