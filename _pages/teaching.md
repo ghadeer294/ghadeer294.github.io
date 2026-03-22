@@ -13,6 +13,6 @@ This page displays a collection of courses with detailed schedules, materials, a
 {% include courses.liquid %}
 -->
 
-# Courses:
-* CS320: Advanced Computer Architecture 
-* CS120: Programming and Hardware Fundamentals
+### **Courses**:
+* **CS320:** Advanced Computer Architecture 
+* **CS120:** Programming and Hardware Fundamentals
