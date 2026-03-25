@@ -12,6 +12,7 @@ This page displays a collection of courses with detailed schedules, materials, a
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 {% include courses.liquid %}
 -->
+I have worked as a teaching assistant for the following courses:
 
 ### **Courses**:
 * **Spring 2026**: Advanced Computer Architecture (CS 320) 
