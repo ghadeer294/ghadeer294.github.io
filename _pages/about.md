@@ -31,7 +31,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a Ph.D. candidate in Computer Science at Binghamton University. My research area is computer architecture, and my current focus is on microarchitecture security of heterogenous systems (integrated and discrete).
-
+I am a Ph.D. candidate in Computer Science at Binghamton University, specializing in computer architecture with a focus on the microarchitectural security of heterogeneous systems. My broader research interests lie in addressing the performance and security challenges inherent to heterogeneous computing environments.
 
 
