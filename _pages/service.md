@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 ### **Reviewer:**
-* IEEE TACO: 2025, 2024
+* ACM TACO: 2025, 2024
 * IEEE TDSC: 2026, 2023
 
 ### **Artifact Evaluation Committee:**
