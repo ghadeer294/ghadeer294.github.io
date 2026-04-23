@@ -12,6 +12,7 @@ nav_order: 6
 * IEEE TDSC: 2026, 2023
 
 ### **Artifact Evaluation Committee:**
+* CAIS: 2026
 * ISPASS: 2026
 * EUROSYS: 2026, 2025
 * FAST: 2026, 2025
