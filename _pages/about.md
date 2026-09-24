@@ -13,7 +13,7 @@ profile:
     #<p>123 your address street</p>
     #<p>Your City, State 12345</p>
 
-    
+
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 
-selected_papers: True # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 
 
 latest_posts:
