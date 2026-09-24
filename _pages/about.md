@@ -31,9 +31,11 @@ latest_posts:
 
 I am a Ph.D. candidate in Computer Science at Binghamton University. My research is about computer architecture and hardware security.
 
-## Publications
+### Publications
 {% include publications.liquid %}
 
-## Professional Services
+### Professional Services
+{% include service.liquid %}
 
-## Teaching
+### Teaching
+{% include teaching.liquid %}
