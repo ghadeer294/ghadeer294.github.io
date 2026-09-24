@@ -77,5 +77,15 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+
+    <!-- publications all -->
+    {% include publications.liquid %}
+
+    <!-- professional services -->
+    {% include service.liquid %}
+
+    <!-- teaching -->
+    {% include teaching.liquid %}
+
   </article>
 </div>
