@@ -29,4 +29,4 @@ latest_posts:
 
 ---
 
-I am a Ph.D. candidate in Computer Science at Binghamton University. My research is about computer architecture and hardware security.
+I am a Ph.D. candidate in Computer Science at Binghamton University. My research area is computer architecture and hardware security. 
