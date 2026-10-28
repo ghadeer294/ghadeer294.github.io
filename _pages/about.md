@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Ghadeer
+title: Home
 permalink: /
 subtitle: 
 
